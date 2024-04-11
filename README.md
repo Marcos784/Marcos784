@@ -4,7 +4,7 @@
 
 "author": "MARTRUÑOS", 
 
-"url": "https://pastebin.com/edit/Ur3sWVRr", 
+"url": "https://github.com/Marcos784/Marcos784/edit/main/README.md", 
 
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXE-aPnwsUi9qb8dcVyc2GGv7u0aVh67kQw9_7hQXuw&s", 
 
